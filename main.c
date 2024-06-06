@@ -2,6 +2,7 @@
 
 int main(void) {
   printf("a");
-  printf("Hello World\n");
+  printf("cambio consola");
+  printf("xdd");
   return 0;
 }
